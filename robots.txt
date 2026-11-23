@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/nintendo-switch-games-lvbc/sitemap.xml
